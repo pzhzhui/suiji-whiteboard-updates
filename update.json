@@ -1,7 +1,7 @@
 {
-  "version": "0.9.2",
-  "build": 21,
-  "asset": "SuijiWhiteboard-0.9.2.zip",
-  "sha256": "0baede8b436bf4fead4457bf600dae7da5ccafa6fa7bb52ef3ada02f97878aee",
-  "notes": "排列组合的上方与下方数字可以分别填写，并收紧显示间距；保留普通上标与下标。"
+  "version": "0.9.3",
+  "build": 22,
+  "asset": "SuijiWhiteboard-0.9.3.zip",
+  "sha256": "da8321c741e7129c61446ac34ed4681867a5b2b9cd74aad140d8b023b2497981",
+  "notes": "修复点击更新时的 GitHub API 请求限额错误；排列组合的上方与下方数字可分别填写。"
 }
