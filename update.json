@@ -1,7 +1,7 @@
 {
-  "version": "0.9.1",
-  "build": 20,
-  "asset": "SuijiWhiteboard-0.9.1.zip",
-  "sha256": "787a8556bdf5347cdf8135d5758585b5ff082943231e9cac236581bf0f537713",
+  "version": "0.9.2",
+  "build": 21,
+  "asset": "SuijiWhiteboard-0.9.2.zip",
+  "sha256": "0baede8b436bf4fead4457bf600dae7da5ccafa6fa7bb52ef3ada02f97878aee",
   "notes": "排列组合的上方与下方数字可以分别填写，并收紧显示间距；保留普通上标与下标。"
 }
